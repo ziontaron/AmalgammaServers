@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CAP Agent.exe" version="1.0.0.1" publicKeyToken="9df8c426709d7eca" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="CA2.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CAP Agent" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CAP Agent.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Sentinel.v3.5Client" version="3.5.0.0" publicKeyToken="b03f5f7f11d50a3a" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CAP Agent.exe" size="65504">
+      <assemblyIdentity name="CAP Agent" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>5YUR+lV2IpeQ2BjJ3S0BfV/QTSE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySystem.dll" size="7168">
+      <assemblyIdentity name="MySystem" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>KZFPs/nUb90p3KKPKazSHTbACss=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CA2.ico" size="25214">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>nk2LRRZYSFf8MOdQM6dDsqa+psM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CAP Agent.exe.config" size="170">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>VldYwwXMrbu9PaDoFhZP9AKKFLM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-SH0UMD0\zion_" issuerKeyHash="315fe0965cad1bae3a4fdcea679144de71d6b1ec" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>McV6gdRgGHiZpZS/hHloOn2Y81c=</DigestValue></Reference></SignedInfo><SignatureValue>m8T6X9i3hmXC5UsQmmFdAUFZmDvei8vZlJvxucXu5NrWxf0v1lzeL/sM0vkZHoyERBP411SZbtwTnbtpWkzDr+hIxByKUsJ5kIFef/IKx3TS9pm5ay1u2auPlBFf2jsjOOjhZb61Fs27MC42hku0/P/B8+aD1U1/sdvdQ1hUpBg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>toCTcHlsRgAHifBbNvD0YGYDS1oTed2Bcoxff9jVYyxhFXCE4hV0ld0nz0UiYt4GTdI8EmqLu9om44kW8OF6XJLAVLbtH/lZTGFjoN2w6hN/Lpr4bACpPDay+WDFr9C5/vzDtGbRGEHakDw1wrhA0Nf0DWz3FKkbUdMf46kj4is=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="57f3987d3a687984bf94a599781860d4817ac531" Description="" Url=""><as:assemblyIdentity name="CAP Agent.exe" version="1.0.0.1" publicKeyToken="9df8c426709d7eca" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-SH0UMD0\zion_</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>SAls9cuAHQPplVVGya13HMNz1Eg=</DigestValue></Reference></SignedInfo><SignatureValue>UhisjCUthwdfu0lgCXPTemLPcxiJRTzO2eMfi64Wg1TmbXfjxSg9PLlmtNz6T78Cdbh+TItjji4FjENCTHO5mxf5uylZw7gbtxtvtoT26yUYTpDciSDBAk0SGnbpZhGwNwo1xjbGSzE1jzl1IhnoqTEjvNsqyrBP0B0uPkUUuJM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>toCTcHlsRgAHifBbNvD0YGYDS1oTed2Bcoxff9jVYyxhFXCE4hV0ld0nz0UiYt4GTdI8EmqLu9om44kW8OF6XJLAVLbtH/lZTGFjoN2w6hN/Lpr4bACpPDay+WDFr9C5/vzDtGbRGEHakDw1wrhA0Nf0DWz3FKkbUdMf46kj4is=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQXJelKuaiTJhAjzReeg+6AjANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFMASAAwAFUATQBEADAAXAB6AGkAbwBuAF8wHhcNMTcwNjI3MjI1NzU2WhcNMTgwNjI4MDQ1NzU2WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFMASAAwAFUATQBEADAAXAB6AGkAbwBuAF8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALaAk3B5bEYAB4nwWzbw9GBmA0taE3ndgXKMX3/Y1WMsYRVwhOIVdJXdJ89FImLeBk3SPBJqi7vaJuOJFvDhelySwFS27R/5WUxhY6DdsOoTfy6a+GwAqTw2svlgxa/Quf78w7Rm0RhB2pA8NcK4QNDX9A1s9xSpG1HTH+OpI+IrAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAZIGPY3LQXJYuacdxk3f6Vn48GkqvYLu30LadUmr3803y69bEhVPsAyZfjjqo0jc6+EUEMyIOvgX/Hu9wCWGHYp/ygKmu0fbKNysI00X2dkmAjtBD5SpL2Cz4LwyHq9/JmzOv23DGqieu7FccLV9PJB1p8aNvTAzW1jzQEycdEDw=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

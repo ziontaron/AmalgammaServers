@@ -1,0 +1,16 @@
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\InventoryEngine\bin\Debug\InventoryEngine.dll.config
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\InventoryEngine\bin\Debug\InventoryEngine.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\InventoryEngine\bin\Debug\InventoryEngine.pdb
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\InventoryEngine\bin\Debug\EntityFramework.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\InventoryEngine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\InventoryEngine\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\InventoryEngine\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\InventoryEngine\bin\Debug\EnvDTE.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\InventoryEngine\bin\Debug\EnvDTE80.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\InventoryEngine\bin\Debug\stdole.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\InventoryEngine\bin\Debug\EntityFramework.xml
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\InventoryEngine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\InventoryEngine\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\InventoryEngine\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.xml
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\InventoryEngine\obj\Debug\InventoryEngine.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\InventoryEngine\obj\Debug\InventoryEngine.pdb

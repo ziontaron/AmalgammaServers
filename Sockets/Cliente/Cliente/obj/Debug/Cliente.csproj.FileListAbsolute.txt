@@ -1,0 +1,5 @@
+C:\Users\Aaron Corrales\Desktop\VS 2010\Sockets\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Aaron Corrales\Desktop\VS 2010\Sockets\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\Aaron Corrales\Desktop\VS 2010\Sockets\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Aaron Corrales\Desktop\VS 2010\Sockets\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\Aaron Corrales\Desktop\VS 2010\Sockets\Cliente\Cliente\obj\Debug\Cliente.pdb

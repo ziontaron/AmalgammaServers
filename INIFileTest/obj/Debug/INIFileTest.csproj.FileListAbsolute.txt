@@ -1,0 +1,9 @@
+C:\Users\Aaron Corrales\Downloads\INIFileTest\INIFileTest\bin\Debug\INIFile.exe
+C:\Users\Aaron Corrales\Downloads\INIFileTest\INIFileTest\bin\Debug\INIFile.pdb
+C:\Users\Aaron Corrales\Downloads\INIFileTest\INIFileTest\obj\Debug\INIFile.exe
+C:\Users\Aaron Corrales\Downloads\INIFileTest\INIFileTest\obj\Debug\INIFile.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\INIFileTest\obj\Debug\INIFile.exe
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\INIFileTest\obj\Debug\INIFile.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\INIFileTest\bin\Debug\INIFile.exe
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\INIFileTest\bin\Debug\INIFile.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\INIFileTest\obj\Debug\ResolveAssemblyReference.cache

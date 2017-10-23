@@ -1,0 +1,13 @@
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\CAP_INV_DESC\bin\Debug\CAP_INV_DESC.exe.config
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\CAP_INV_DESC\bin\Debug\CAP_INV_DESC.exe
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\CAP_INV_DESC\bin\Debug\CAP_INV_DESC.pdb
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\CAP_INV_DESC\bin\Debug\EntityFramework.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\CAP_INV_DESC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\CAP_INV_DESC\bin\Debug\EntityFramework.xml
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\CAP_INV_DESC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\CAP_INV_DESC\obj\Debug\CAP_INV_DESC.csprojResolveAssemblyReference.cache
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\CAP_INV_DESC\obj\Debug\CAP_INV_DESC.InvTicket.resources
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\CAP_INV_DESC\obj\Debug\CAP_INV_DESC.Properties.Resources.resources
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\CAP_INV_DESC\obj\Debug\CAP_INV_DESC.csproj.GenerateResource.Cache
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\CAP_INV_DESC\obj\Debug\CAP_INV_DESC.exe
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_INV_DESC\CAP_INV_DESC\obj\Debug\CAP_INV_DESC.pdb

@@ -1,0 +1,6 @@
+C:\Users\Aaron Corrales\Desktop\VS 2010\Sockets\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Aaron Corrales\Desktop\VS 2010\Sockets\Server\Server\bin\Debug\Server.exe
+C:\Users\Aaron Corrales\Desktop\VS 2010\Sockets\Server\Server\bin\Debug\Server.pdb
+C:\Users\Aaron Corrales\Desktop\VS 2010\Sockets\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Aaron Corrales\Desktop\VS 2010\Sockets\Server\Server\obj\Debug\Server.exe
+C:\Users\Aaron Corrales\Desktop\VS 2010\Sockets\Server\Server\obj\Debug\Server.pdb

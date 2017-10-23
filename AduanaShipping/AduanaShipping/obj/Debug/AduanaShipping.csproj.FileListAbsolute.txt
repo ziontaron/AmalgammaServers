@@ -1,0 +1,59 @@
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\AduanaShipping\AduanaShipping\bin\Debug\AduanaShipping.exe
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\AduanaShipping\AduanaShipping\bin\Debug\AduanaShipping.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\AduanaShipping\AduanaShipping\bin\Debug\BD_MNG.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\AduanaShipping\AduanaShipping\bin\Debug\BD_MNG.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\AduanaShipping\AduanaShipping\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.Form1.resources
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.Properties.Resources.resources
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.csproj.GenerateResource.Cache
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.exe
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\AduanaShipping\AduanaShipping\bin\Debug\AduanaShipping.exe
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\AduanaShipping\AduanaShipping\bin\Debug\AduanaShipping.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\AduanaShipping\AduanaShipping\bin\Debug\BD_MNG.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\AduanaShipping\AduanaShipping\bin\Debug\FS4Amalgamma.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\AduanaShipping\AduanaShipping\bin\Debug\BD_MNG.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\AduanaShipping\AduanaShipping\bin\Debug\FS4Amalgamma.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\AduanaShipping\AduanaShipping\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.Form1.resources
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.Properties.Resources.resources
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\AduanaShipping\AduanaShipping\obj\Debug\ResGen.read.1.tlog
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\AduanaShipping\AduanaShipping\obj\Debug\ResGen.write.1.tlog
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.exe
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.pdb
+H:\USERS\Acorrales\VS 2010\AduanaShipping\AduanaShipping\bin\Debug\AduanaShipping.exe
+H:\USERS\Acorrales\VS 2010\AduanaShipping\AduanaShipping\bin\Debug\AduanaShipping.pdb
+H:\USERS\Acorrales\VS 2010\AduanaShipping\AduanaShipping\bin\Debug\BD_MNG.dll
+H:\USERS\Acorrales\VS 2010\AduanaShipping\AduanaShipping\bin\Debug\FS4Amalgamma.dll
+H:\USERS\Acorrales\VS 2010\AduanaShipping\AduanaShipping\bin\Debug\BD_MNG.pdb
+H:\USERS\Acorrales\VS 2010\AduanaShipping\AduanaShipping\bin\Debug\FS4Amalgamma.pdb
+H:\USERS\Acorrales\VS 2010\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.csprojResolveAssemblyReference.cache
+H:\USERS\Acorrales\VS 2010\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.Form1.resources
+H:\USERS\Acorrales\VS 2010\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.Properties.Resources.resources
+H:\USERS\Acorrales\VS 2010\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.csproj.GenerateResource.Cache
+H:\USERS\Acorrales\VS 2010\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.exe
+H:\USERS\Acorrales\VS 2010\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.pdb
+C:\Users\Aaron Corrales\Desktop\VS 2010\AduanaShipping\AduanaShipping\bin\Debug\AduanaShipping.exe
+C:\Users\Aaron Corrales\Desktop\VS 2010\AduanaShipping\AduanaShipping\bin\Debug\AduanaShipping.pdb
+C:\Users\Aaron Corrales\Desktop\VS 2010\AduanaShipping\AduanaShipping\bin\Debug\BD_MNG.dll
+C:\Users\Aaron Corrales\Desktop\VS 2010\AduanaShipping\AduanaShipping\bin\Debug\FS4Amalgamma.dll
+C:\Users\Aaron Corrales\Desktop\VS 2010\AduanaShipping\AduanaShipping\bin\Debug\BD_MNG.pdb
+C:\Users\Aaron Corrales\Desktop\VS 2010\AduanaShipping\AduanaShipping\bin\Debug\FS4Amalgamma.pdb
+C:\Users\Aaron Corrales\Desktop\VS 2010\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.csprojResolveAssemblyReference.cache
+C:\Users\Aaron Corrales\Desktop\VS 2010\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.Form1.resources
+C:\Users\Aaron Corrales\Desktop\VS 2010\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.Properties.Resources.resources
+C:\Users\Aaron Corrales\Desktop\VS 2010\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.csproj.GenerateResource.Cache
+C:\Users\Aaron Corrales\Desktop\VS 2010\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.exe
+C:\Users\Aaron Corrales\Desktop\VS 2010\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.pdb
+D:\SOURCE_CODE\Amalgamma Servers\AduanaShipping\AduanaShipping\bin\Debug\AduanaShipping.exe
+D:\SOURCE_CODE\Amalgamma Servers\AduanaShipping\AduanaShipping\bin\Debug\AduanaShipping.pdb
+D:\SOURCE_CODE\Amalgamma Servers\AduanaShipping\AduanaShipping\bin\Debug\BD_MNG.dll
+D:\SOURCE_CODE\Amalgamma Servers\AduanaShipping\AduanaShipping\bin\Debug\FS4Amalgamma.dll
+D:\SOURCE_CODE\Amalgamma Servers\AduanaShipping\AduanaShipping\bin\Debug\BD_MNG.pdb
+D:\SOURCE_CODE\Amalgamma Servers\AduanaShipping\AduanaShipping\bin\Debug\FS4Amalgamma.pdb
+D:\SOURCE_CODE\Amalgamma Servers\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.csprojResolveAssemblyReference.cache
+D:\SOURCE_CODE\Amalgamma Servers\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.Form1.resources
+D:\SOURCE_CODE\Amalgamma Servers\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.Properties.Resources.resources
+D:\SOURCE_CODE\Amalgamma Servers\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.csproj.GenerateResource.Cache
+D:\SOURCE_CODE\Amalgamma Servers\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.exe
+D:\SOURCE_CODE\Amalgamma Servers\AduanaShipping\AduanaShipping\obj\Debug\AduanaShipping.pdb

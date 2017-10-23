@@ -1,0 +1,10 @@
+C:\Users\Aaron Corrales\Desktop\VS 2010\MySystem\MySystem\bin\Debug\MySystem.dll
+C:\Users\Aaron Corrales\Desktop\VS 2010\MySystem\MySystem\bin\Debug\MySystem.pdb
+C:\Users\Aaron Corrales\Desktop\VS 2010\MySystem\MySystem\obj\Debug\MySystem.csprojResolveAssemblyReference.cache
+C:\Users\Aaron Corrales\Desktop\VS 2010\MySystem\MySystem\obj\Debug\MySystem.dll
+C:\Users\Aaron Corrales\Desktop\VS 2010\MySystem\MySystem\obj\Debug\MySystem.pdb
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\MySystem\MySystem\bin\Debug\MySystem.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\MySystem\MySystem\bin\Debug\MySystem.pdb
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\MySystem\MySystem\obj\Debug\MySystem.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\MySystem\MySystem\obj\Debug\MySystem.pdb
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\MySystem\MySystem\obj\Debug\MySystem.csprojResolveAssemblyReference.cache
